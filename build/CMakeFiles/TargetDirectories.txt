@@ -1,0 +1,4 @@
+C:/Users/fabi7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-FabiRamiro/build/CMakeFiles/PRT7Decoder.dir
+C:/Users/fabi7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-FabiRamiro/build/CMakeFiles/docs.dir
+C:/Users/fabi7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-FabiRamiro/build/CMakeFiles/edit_cache.dir
+C:/Users/fabi7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-FabiRamiro/build/CMakeFiles/rebuild_cache.dir
